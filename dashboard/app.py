@@ -37,25 +37,85 @@ st.set_page_config(
 st.markdown(
     """
     <style>
-        /* Main background and font - NUDE/BEIGE COLOR */
-        .main {
-            background-color: #f5ebe0 !important;  /* Nude/beige base color */
-            font-family: 'Inter', 'Segoe UI', sans-serif;
-        }
-        
-        /* Ensure all main containers use nude background */
-        .stApp {
-            background-color: #f5ebe0 !important;
-        }
-        
-        .stApp > header {
-            background-color: #f5ebe0 !important;
+        /* -------- Theme tokens (easier to maintain) -------- */
+        :root {
+            /* Core nude palette */
+            --bg: #f5ebe0;            /* nude base */
+            --panel: #faf5f0;        /* cream panel */
+            --sidebar: #edddd4;      /* sand sidebar */
+            --border: #d4c5b8;       /* warm border */
+            --border-strong: #b8a394;
+
+            /* Text */
+            --text: #2c241c;         /* ink */
+            --muted: #6b5d4f;        /* taupe */
+            --muted2: #8a7a6a;       /* soft gray-brown */
+
+            /* Extra eye-friendly accents */
+            --accent: #2563eb;       /* calm blue */
+            --accent2: #059669;      /* moss green */
+            --accent3: #7c3aed;      /* gentle violet */
+            --accent4: #dc2626;      /* warm rose-red */
+
+            --cream: #fff7ee;
+            --sand: #f2e7db;
+            --rose: #fde6e6;
+            --moss: #e6f7ef;
+            --violet: #efe8ff;
+            --bluewash: #e7f0ff;
+
+            --shadow: 0 10px 30px rgba(44,36,28,0.08);
         }
 
-        /* Sidebar styling - slightly darker nude for contrast */
+        /* Main background and font */
+        .main,
+        .stApp {
+            background-color: var(--bg) !important;
+            font-family: 'Inter', 'Segoe UI', sans-serif;
+        }
+        .stApp > header {
+            background-color: var(--bg) !important;
+        }
+
+        /* Sidebar styling */
         .css-1d391kg, .css-12oz5g7 {
-            background-color: #edddd4 !important;  /* Slightly darker nude */
-            border-right: 1px solid #d4c5b8 !important;
+            background-color: var(--sidebar) !important;
+            border-right: 1px solid var(--border) !important;
+        }
+
+        /* Improve overall container separation */
+        .block-container {
+            padding-top: 2.0rem;
+        }
+
+        /* Make expander/controls feel clickable */
+        button[kind="secondary"],
+        button[kind="primary"],
+        .stButton button {
+            border-radius: 10px !important;
+        }
+
+        /* Plotly charts container polish */
+        .stPlotlyChart {
+            background-color: var(--panel) !important;
+            border-radius: 14px !important;
+            padding: 12px !important;
+            border: 1px solid var(--border) !important;
+            box-shadow: 0 2px 12px rgba(0,0,0,0.03) !important;
+            outline: none !important;
+        }
+
+        /* Slight hover lift for chart containers */
+        .stPlotlyChart:hover {
+            box-shadow: var(--shadow) !important;
+            border-color: var(--border-strong) !important;
+            transform: translateY(-1px);
+            transition: all 180ms ease;
+        }
+
+        /* Make Plotly labels feel integrated */
+        .stPlotlyChart * {
+            color: var(--text) !important;
         }
 
         /* --- KPI CARD STYLING --- */
@@ -280,6 +340,17 @@ st.markdown(
         /* Buttons / widgets */
         .stSelectbox, .stMultiSelect {
             border-radius: 8px;
+        }
+
+        /* Streamlit base button polish */
+        .stButton>button {
+            border-radius: 10px !important;
+            border: 1px solid var(--border) !important;
+        }
+        
+        .stButton>button:hover {
+            border-color: var(--border-strong) !important;
+            box-shadow: 0 4px 14px rgba(0,0,0,0.06) !important;
         }
 
         /* Footer */
