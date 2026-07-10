@@ -1,0 +1,749 @@
+Trip_ID,Date,Destination,Duration_Days,Category,Subcategory,Amount_LKR,Payment_Method,Traveler_Type,Season,Rating
+TRP_108,2025-08-22,Mirissa,2,Miscellaneous,Mobile Data,11900,Cash,Couple,Peak,4.4
+TRP_066,2025-03-24,Nuwara Eliya,3,Miscellaneous,Mobile Data,13100,Cash,Couple,Peak,4.6
+TRP_025,2025-08-07,Nuwara Eliya,4,Food,Street Food,26400,Card,Couple,Peak,4.4
+TRP_047,2026-02-15,Nuwara Eliya,4,Shopping,Souvenirs,6800,Cash,Solo,Peak,5.0
+TRP_056,2025-09-14,Nuwara Eliya,3,Activities,Surfing,32300,Cash,Family,Off-Peak,4.3
+TRP_072,2025-02-26,Galle,2,Activities,Guided Tour,11800,Card,Solo,Peak,3.6
+TRP_063,2025-01-22,Ella,2,Transport,Bus,24100,Cash,Family,Peak,4.3
+TRP_029,2025-05-22,Colombo,1,Activities,Guided Tour,3100,Cash,Solo,Off-Peak,4.8
+TRP_099,2026-06-14,Nuwara Eliya,3,Miscellaneous,Mobile Data,5000,Cash,Solo,Off-Peak,4.1
+TRP_138,2025-12-01,Galle,2,Miscellaneous,Laundry,8200,Card,Couple,Peak,2.9
+TRP_018,2025-10-16,Ella,3,Shopping,Souvenirs,4600,Cash,Couple,Off-Peak,4.3
+TRP_057,2025-10-21,Mirissa,3,Shopping,Local Products,6300,Card,Couple,Off-Peak,4.3
+TRP_053,2026-01-25,Sigiriya,3,Transport,Taxi,13300,Online Transfer,Couple,Peak,4.3
+TRP_140,2025-04-16,Nuwara Eliya,2,Activities,Museum,6800,Online Transfer,Solo,Off-Peak,3.5
+TRP_040,2025-07-18,Arugam Bay,4,Activities,Guided Tour,28500,Cash,Solo,Peak,4.4
+TRP_050,2026-03-01,Ella,4,Activities,Surfing,71000,Cash,Family,Peak,3.5
+TRP_008,2025-10-01,Nuwara Eliya,4,Activities,Tickets,13600,Online Transfer,Solo,Off-Peak,4.4
+TRP_047,2026-02-15,Nuwara Eliya,4,Food,Hotel Dining,13200,Online Transfer,Solo,Peak,4.2
+TRP_067,2026-02-13,Sigiriya,3,Shopping,Souvenirs,9400,Card,Couple,Peak,4.1
+TRP_101,2025-12-12,Colombo,3,Activities,Museum,11300,Cash,Solo,Peak,3.9
+TRP_086,2025-08-30,Nuwara Eliya,3,Activities,Guided Tour,40100,Card,Family,Peak,3.3
+TRP_122,2026-03-07,Arugam Bay,4,Activities,Museum,59700,Cash,Family,Peak,4.1
+TRP_096,2026-04-02,Ella,3,Activities,Guided Tour,27800,Online Transfer,Family,Off-Peak,4.0
+TRP_060,2025-09-26,Colombo,3,Transport,Bus,11200,Card,Couple,Off-Peak,4.2
+TRP_013,2025-07-07,Ella,4,Food,Restaurant,19000,Online Transfer,Couple,Peak,4.4
+TRP_130,2025-05-30,Ella,2,Accommodation,Hostel,17700,Cash,Solo,Off-Peak,4.2
+TRP_047,2026-02-15,Nuwara Eliya,4,Transport,Train,7400,Card,Solo,Peak,3.7
+TRP_061,2025-11-08,Arugam Bay,5,Miscellaneous,Laundry,8100,Cash,Solo,Off-Peak,4.9
+TRP_041,2025-02-22,Galle,3,Shopping,Souvenirs,29300,Card,Family,Peak,4.3
+TRP_042,2025-08-20,Nuwara Eliya,4,Food,Restaurant,28000,Card,Couple,Peak,4.2
+TRP_066,2025-03-24,Nuwara Eliya,3,Accommodation,Villa,115300,Cash,Couple,Peak,2.9
+TRP_088,2026-05-27,Sigiriya,4,Activities,Safari,43600,Card,Couple,Off-Peak,4.1
+TRP_085,2026-06-13,Kandy,2,Activities,Surfing,8400,Online Transfer,Solo,Off-Peak,4.3
+TRP_064,2025-06-28,Colombo,1,Transport,Train,10200,Cash,Couple,Off-Peak,4.3
+TRP_069,2025-04-21,Nuwara Eliya,3,Accommodation,Guest House,141800,Online Transfer,Family,Off-Peak,4.5
+TRP_015,2026-05-04,Kandy,4,Activities,Museum,47000,Cash,Family,Off-Peak,4.5
+TRP_040,2025-07-18,Arugam Bay,4,Transport,Bus,11300,Card,Solo,Peak,3.3
+TRP_081,2026-06-24,Colombo,1,Activities,Safari,4900,Cash,Couple,Off-Peak,4.5
+TRP_016,2025-11-20,Colombo,2,Accommodation,Hostel,35100,Cash,Solo,Off-Peak,4.5
+TRP_077,2026-04-18,Kandy,3,Transport,Tuk Tuk,5600,Online Transfer,Solo,Off-Peak,3.8
+TRP_015,2026-05-04,Kandy,4,Transport,Bus,16000,Cash,Family,Off-Peak,3.6
+TRP_139,2025-03-26,Mirissa,4,Accommodation,Hostel,44700,Cash,Solo,Peak,4.3
+TRP_007,2025-05-22,Arugam Bay,5,Activities,Guided Tour,16300,Card,Solo,Off-Peak,4.7
+TRP_023,2026-03-23,Mirissa,2,Accommodation,Hostel,56400,Cash,Couple,Peak,4.0
+TRP_080,2025-06-03,Mirissa,4,Activities,Guided Tour,16700,Card,Solo,Off-Peak,3.6
+TRP_106,2026-01-18,Kandy,3,Miscellaneous,Laundry,13500,Cash,Couple,Peak,5.0
+TRP_089,2026-06-04,Nuwara Eliya,4,Accommodation,Hostel,99300,Online Transfer,Couple,Off-Peak,4.1
+TRP_108,2025-08-22,Mirissa,2,Food,Cafe,19400,Cash,Couple,Peak,3.5
+TRP_073,2025-12-29,Ella,2,Shopping,Gifts,8700,Cash,Couple,Peak,4.0
+TRP_069,2025-04-21,Nuwara Eliya,3,Activities,Surfing,26700,Card,Family,Off-Peak,4.3
+TRP_003,2025-09-28,Sigiriya,2,Accommodation,Hostel,29000,Cash,Couple,Off-Peak,3.9
+TRP_088,2026-05-27,Sigiriya,4,Food,Restaurant,13600,Card,Couple,Off-Peak,3.9
+TRP_068,2025-12-04,Colombo,3,Shopping,Clothes,8400,Cash,Solo,Peak,3.7
+TRP_061,2025-11-08,Arugam Bay,5,Food,Hotel Dining,11600,Card,Solo,Off-Peak,4.4
+TRP_139,2025-03-26,Mirissa,4,Activities,Surfing,20200,Cash,Solo,Peak,3.9
+TRP_021,2025-09-12,Nuwara Eliya,3,Accommodation,Hotel,39500,Online Transfer,Solo,Off-Peak,4.0
+TRP_094,2026-01-08,Colombo,3,Shopping,Souvenirs,36500,Card,Family,Peak,4.0
+TRP_015,2026-05-04,Kandy,4,Food,Restaurant,34100,Card,Family,Off-Peak,4.5
+TRP_120,2025-12-02,Ella,5,Miscellaneous,Laundry,11900,Card,Solo,Peak,3.9
+TRP_011,2025-08-24,Galle,4,Food,Restaurant,21700,Online Transfer,Solo,Peak,3.0
+TRP_048,2026-03-29,Nuwara Eliya,2,Transport,Tuk Tuk,7400,Card,Solo,Peak,3.6
+TRP_039,2025-11-20,Mirissa,2,Accommodation,Guest House,39100,Cash,Couple,Off-Peak,4.0
+TRP_134,2026-01-18,Galle,3,Activities,Guided Tour,20000,Cash,Couple,Peak,4.2
+TRP_132,2025-03-11,Colombo,3,Shopping,Souvenirs,8900,Card,Solo,Peak,3.6
+TRP_049,2025-04-27,Kandy,3,Transport,Fuel,22400,Online Transfer,Family,Off-Peak,3.9
+TRP_043,2025-06-27,Ella,2,Activities,Guided Tour,8700,Cash,Solo,Off-Peak,4.4
+TRP_055,2025-09-04,Galle,3,Accommodation,Villa,128600,Card,Family,Off-Peak,3.6
+TRP_013,2025-07-07,Ella,4,Accommodation,Hotel,62600,Cash,Couple,Peak,3.8
+TRP_133,2026-05-30,Galle,4,Food,Cafe,23400,Cash,Couple,Off-Peak,3.9
+TRP_094,2026-01-08,Colombo,3,Accommodation,Guest House,273100,Online Transfer,Family,Peak,3.2
+TRP_080,2025-06-03,Mirissa,4,Transport,Train,7600,Cash,Solo,Off-Peak,4.6
+TRP_105,2025-09-28,Nuwara Eliya,4,Accommodation,Hotel,99800,Card,Couple,Off-Peak,3.5
+TRP_049,2025-04-27,Kandy,3,Activities,Safari,26000,Card,Family,Off-Peak,4.0
+TRP_083,2025-09-01,Colombo,2,Food,Street Food,11300,Online Transfer,Couple,Off-Peak,3.7
+TRP_068,2025-12-04,Colombo,3,Accommodation,Hostel,76500,Online Transfer,Solo,Peak,4.0
+TRP_079,2026-01-17,Ella,4,Activities,Guided Tour,42700,Cash,Couple,Peak,3.5
+TRP_102,2026-02-20,Mirissa,4,Transport,Bus,17000,Cash,Couple,Peak,4.6
+TRP_014,2025-01-03,Ella,5,Transport,Taxi,7000,Cash,Solo,Peak,4.0
+TRP_040,2025-07-18,Arugam Bay,4,Miscellaneous,Emergency,10000,Card,Solo,Peak,4.9
+TRP_071,2025-02-20,Ella,2,Transport,Train,7800,Cash,Solo,Peak,4.1
+TRP_045,2026-05-28,Arugam Bay,5,Shopping,Local Products,6700,Card,Couple,Off-Peak,3.2
+TRP_012,2026-02-21,Nuwara Eliya,2,Shopping,Souvenirs,5500,Cash,Solo,Peak,4.0
+TRP_120,2025-12-02,Ella,5,Activities,Guided Tour,30200,Card,Solo,Peak,3.9
+TRP_112,2025-10-05,Sigiriya,4,Transport,Train,12600,Cash,Couple,Off-Peak,3.6
+TRP_010,2025-06-19,Nuwara Eliya,3,Food,Hotel Dining,19200,Online Transfer,Couple,Off-Peak,4.7
+TRP_090,2025-12-13,Galle,4,Activities,Safari,17200,Cash,Solo,Peak,3.6
+TRP_134,2026-01-18,Galle,3,Food,Restaurant,17700,Card,Couple,Peak,3.7
+TRP_084,2026-03-28,Arugam Bay,5,Accommodation,Hostel,257100,Online Transfer,Family,Peak,3.0
+TRP_125,2025-11-25,Mirissa,3,Transport,Tuk Tuk,8500,Online Transfer,Solo,Off-Peak,4.1
+TRP_002,2026-03-06,Mirissa,3,Transport,Bus,15400,Online Transfer,Couple,Peak,4.6
+TRP_103,2025-04-19,Nuwara Eliya,3,Miscellaneous,Mobile Data,5600,Card,Solo,Off-Peak,3.8
+TRP_005,2025-09-08,Ella,3,Activities,Guided Tour,25900,Cash,Couple,Off-Peak,4.6
+TRP_115,2025-04-20,Kandy,3,Accommodation,Hostel,26200,Online Transfer,Solo,Off-Peak,3.3
+TRP_140,2025-04-16,Nuwara Eliya,2,Transport,Fuel,5100,Card,Solo,Off-Peak,3.9
+TRP_019,2026-03-29,Ella,5,Transport,Bus,16000,Cash,Couple,Peak,4.2
+TRP_062,2026-03-31,Galle,3,Miscellaneous,Emergency,27200,Cash,Family,Peak,4.6
+TRP_124,2025-01-17,Colombo,1,Food,Restaurant,6000,Cash,Solo,Peak,4.4
+TRP_054,2025-04-13,Mirissa,5,Transport,Fuel,5500,Cash,Solo,Off-Peak,3.1
+TRP_022,2025-10-13,Arugam Bay,4,Activities,Surfing,30600,Cash,Couple,Off-Peak,4.8
+TRP_033,2025-07-24,Arugam Bay,2,Transport,Taxi,23200,Card,Couple,Peak,4.1
+TRP_016,2025-11-20,Colombo,2,Miscellaneous,Mobile Data,5300,Card,Solo,Off-Peak,4.5
+TRP_078,2026-04-07,Arugam Bay,2,Transport,Fuel,18400,Online Transfer,Family,Off-Peak,3.5
+TRP_001,2025-01-26,Colombo,3,Transport,Bus,5400,Cash,Solo,Peak,4.3
+TRP_109,2026-04-28,Mirissa,2,Miscellaneous,Mobile Data,5900,Online Transfer,Couple,Off-Peak,4.1
+TRP_030,2026-01-25,Mirissa,5,Food,Cafe,27400,Card,Solo,Peak,4.0
+TRP_007,2025-05-22,Arugam Bay,5,Accommodation,Guest House,57300,Card,Solo,Off-Peak,3.8
+TRP_117,2025-09-12,Nuwara Eliya,2,Accommodation,Villa,30900,Cash,Solo,Off-Peak,4.0
+TRP_130,2025-05-30,Ella,2,Activities,Safari,8100,Card,Solo,Off-Peak,3.7
+TRP_084,2026-03-28,Arugam Bay,5,Transport,Bus,36700,Online Transfer,Family,Peak,4.3
+TRP_031,2025-05-11,Sigiriya,4,Transport,Fuel,9800,Cash,Couple,Off-Peak,4.4
+TRP_123,2025-01-04,Ella,2,Accommodation,Hostel,59800,Card,Family,Peak,3.5
+TRP_121,2025-01-04,Galle,4,Transport,Train,9200,Online Transfer,Solo,Peak,4.9
+TRP_034,2025-01-27,Kandy,3,Activities,Museum,24800,Online Transfer,Couple,Peak,4.2
+TRP_115,2025-04-20,Kandy,3,Activities,Tickets,10900,Cash,Solo,Off-Peak,4.5
+TRP_076,2026-05-21,Mirissa,5,Accommodation,Villa,131800,Online Transfer,Family,Off-Peak,4.6
+TRP_134,2026-01-18,Galle,3,Accommodation,Villa,92600,Card,Couple,Peak,4.2
+TRP_112,2025-10-05,Sigiriya,4,Shopping,Souvenirs,5200,Card,Couple,Off-Peak,4.8
+TRP_056,2025-09-14,Nuwara Eliya,3,Shopping,Gifts,12900,Cash,Family,Off-Peak,4.1
+TRP_107,2025-11-03,Arugam Bay,4,Food,Restaurant,17300,Cash,Couple,Off-Peak,3.7
+TRP_016,2025-11-20,Colombo,2,Activities,Museum,4400,Online Transfer,Solo,Off-Peak,3.6
+TRP_116,2025-01-15,Mirissa,4,Transport,Tuk Tuk,38100,Cash,Family,Peak,3.8
+TRP_015,2026-05-04,Kandy,4,Shopping,Souvenirs,10800,Card,Family,Off-Peak,4.1
+TRP_116,2025-01-15,Mirissa,4,Food,Hotel Dining,67100,Online Transfer,Family,Peak,4.1
+TRP_057,2025-10-21,Mirissa,3,Accommodation,Villa,41000,Card,Couple,Off-Peak,
+TRP_122,2026-03-07,Arugam Bay,4,Accommodation,Hostel,222300,Cash,Family,Peak,3.8
+TRP_037,2025-08-06,Ella,4,Transport,Fuel,21900,Card,Family,Peak,4.8
+TRP_007,2025-05-22,Arugam Bay,5,Food,Hotel Dining,11400,Card,Solo,Off-Peak,3.9
+TRP_083,2025-09-01,Colombo,2,Accommodation,Guest House,44000,Card,Couple,Off-Peak,4.4
+TRP_050,2026-03-01,Ella,4,Transport,Fuel,36000,Card,Family,Peak,3.8
+TRP_126,2025-12-19,Kandy,4,Transport,Tuk Tuk,13000,Card,Couple,Peak,3.9
+TRP_044,2025-07-22,Mirissa,5,Miscellaneous,Laundry,10900,Card,Solo,Peak,4.9
+TRP_011,2025-08-24,Galle,4,Transport,Train,8300,Card,Solo,Peak,4.4
+TRP_040,2025-07-18,Arugam Bay,4,Shopping,Souvenirs,5100,Card,Solo,Peak,4.5
+TRP_063,2025-01-22,Ella,2,Food,Cafe,19900,Card,Family,Peak,4.3
+TRP_097,2025-10-25,Mirissa,4,Shopping,Souvenirs,14800,Cash,Family,Off-Peak,4.1
+TRP_067,2026-02-13,Sigiriya,3,Activities,Tickets,28600,Cash,Couple,Peak,3.8
+TRP_041,2025-02-22,Galle,3,Food,Restaurant,51900,Cash,Family,Peak,3.8
+TRP_062,2026-03-31,Galle,3,Accommodation,Villa,183800,Card,Family,Peak,4.1
+TRP_012,2026-02-21,Nuwara Eliya,2,Food,Restaurant,10600,Card,Solo,Peak,4.2
+TRP_086,2025-08-30,Nuwara Eliya,3,Shopping,Clothes,19500,Card,Family,Peak,3.7
+TRP_071,2025-02-20,Ella,2,Food,Cafe,7400,Card,Solo,Peak,4.0
+TRP_031,2025-05-11,Sigiriya,4,Activities,Surfing,40400,Cash,Couple,Off-Peak,3.9
+TRP_070,2025-07-05,Galle,2,Shopping,Local Products,10600,Card,Couple,Peak,4.2
+TRP_081,2026-06-24,Colombo,1,Transport,Fuel,10100,Cash,Couple,Off-Peak,4.0
+TRP_028,2025-06-12,Colombo,3,Food,Hotel Dining,38500,Card,Family,Off-Peak,4.9
+TRP_118,2026-05-30,Galle,4,Transport,Bus,26300,Card,Family,Off-Peak,4.1
+TRP_017,2025-12-24,Kandy,2,Activities,Tickets,22700,Online Transfer,Family,Peak,4.3
+TRP_121,2025-01-04,Galle,4,Accommodation,Hotel,63700,Card,Solo,Peak,3.7
+TRP_128,2025-08-11,Ella,5,Activities,Guided Tour,26100,Online Transfer,Solo,Peak,3.9
+TRP_013,2025-07-07,Ella,4,Miscellaneous,Emergency,15600,Online Transfer,Couple,Peak,4.5
+TRP_111,2026-01-24,Colombo,2,Transport,Fuel,17500,Card,Family,Peak,4.1
+TRP_024,2025-12-01,Colombo,2,Miscellaneous,Laundry,12400,Card,Couple,Peak,5.0
+TRP_009,2026-06-28,Mirissa,2,Transport,Bus,15500,Online Transfer,Couple,Off-Peak,4.0
+TRP_014,2025-01-03,Ella,5,Accommodation,Hostel,48500,Card,Solo,Peak,4.8
+TRP_126,2025-12-19,Kandy,4,Food,Street Food,23600,Cash,Couple,Peak,4.5
+TRP_040,2025-07-18,Arugam Bay,4,Accommodation,Guest House,48100,Cash,Solo,Peak,4.1
+TRP_064,2025-06-28,Colombo,1,Shopping,Souvenirs,13400,Card,Couple,Off-Peak,4.3
+TRP_117,2025-09-12,Nuwara Eliya,2,Food,Restaurant,7500,Cash,Solo,Off-Peak,4.2
+TRP_025,2025-08-07,Nuwara Eliya,4,Activities,Safari,25100,Card,Couple,Peak,3.4
+TRP_090,2025-12-13,Galle,4,Miscellaneous,Mobile Data,11800,Online Transfer,Solo,Peak,3.8
+TRP_006,2025-11-19,Colombo,1,Activities,Museum,3900,Cash,Couple,Off-Peak,4.5
+TRP_066,2025-03-24,Nuwara Eliya,3,Food,Street Food,20100,Card,Couple,Peak,4.8
+TRP_092,2026-03-27,Galle,3,Food,Street Food,15000,Online Transfer,Solo,Peak,4.3
+TRP_116,2025-01-15,Mirissa,4,Activities,Guided Tour,101100,Card,Family,Peak,3.9
+TRP_026,2025-07-23,Ella,3,Accommodation,Hotel,23000,Card,Solo,Peak,3.9
+TRP_093,2025-03-23,Galle,3,Activities,Surfing,21100,Card,Couple,Peak,4.4
+TRP_002,2026-03-06,Mirissa,3,Food,Street Food,20200,Cash,Couple,Peak,3.0
+TRP_107,2025-11-03,Arugam Bay,4,Activities,Museum,23000,Cash,Couple,Off-Peak,4.7
+TRP_014,2025-01-03,Ella,5,Activities,Tickets,22600,Card,Solo,Peak,4.6
+TRP_037,2025-08-06,Ella,4,Shopping,Gifts,15900,Cash,Family,Peak,3.5
+TRP_038,2025-10-29,Kandy,2,Accommodation,Villa,38000,Card,Couple,Off-Peak,3.8
+TRP_027,2026-06-15,Ella,5,Activities,Guided Tour,15300,Card,Solo,Off-Peak,5.0
+TRP_061,2025-11-08,Arugam Bay,5,Accommodation,Hostel,44900,Card,Solo,Off-Peak,4.5
+TRP_131,2026-05-18,Sigiriya,3,Transport,Train,6300,Online Transfer,Solo,Off-Peak,4.2
+TRP_025,2025-08-07,Nuwara Eliya,4,Accommodation,Guest House,140100,Card,Couple,Peak,3.9
+TRP_061,2025-11-08,Arugam Bay,5,Activities,Tickets,26600,Online Transfer,Solo,Off-Peak,4.0
+TRP_071,2025-02-20,Ella,2,Activities,Tickets,12400,Cash,Solo,Peak,4.3
+TRP_133,2026-05-30,Galle,4,Activities,Surfing,19800,Cash,Couple,Off-Peak,4.4
+TRP_008,2025-10-01,Nuwara Eliya,4,Miscellaneous,Mobile Data,5600,Cash,Solo,Off-Peak,4.2
+TRP_020,2025-09-13,Ella,2,Shopping,Local Products,6000,Card,Couple,Off-Peak,3.8
+TRP_100,2025-08-19,Arugam Bay,4,Activities,Tickets,92500,Card,Family,Peak,4.2
+TRP_011,2025-08-24,Galle,4,Activities,Surfing,15600,Card,Solo,Peak,4.4
+TRP_036,2026-05-11,Arugam Bay,5,Shopping,Gifts,6700,Cash,Couple,Off-Peak,3.3
+TRP_109,2026-04-28,Mirissa,2,Accommodation,Hostel,39100,Card,Couple,Off-Peak,3.6
+TRP_066,2025-03-24,Nuwara Eliya,3,Shopping,Clothes,7900,Cash,Couple,Peak,4.1
+TRP_104,2026-05-26,Nuwara Eliya,3,Activities,Guided Tour,18500,Card,Couple,Off-Peak,4.6
+TRP_110,2025-11-02,Ella,3,Transport,Taxi,19900,Card,Family,Off-Peak,4.3
+TRP_005,2025-09-08,Ella,3,Shopping,Clothes,3800,Online Transfer,Couple,Off-Peak,3.7
+TRP_113,2025-06-11,Colombo,2,Food,Street Food,12400,Cash,Couple,Off-Peak,4.1
+TRP_074,2026-04-17,Arugam Bay,4,Miscellaneous,Tips,6600,Card,Solo,Off-Peak,4.2
+TRP_085,2026-06-13,Kandy,2,Transport,Bus,6100,Online Transfer,Solo,Off-Peak,4.6
+TRP_062,2026-03-31,Galle,3,Activities,Tickets,40500,Online Transfer,Family,Peak,4.6
+TRP_137,2026-01-29,Colombo,3,Transport,Train,5700,Cash,Solo,Peak,5.0
+TRP_021,2025-09-12,Nuwara Eliya,3,Food,Cafe,11300,Cash,Solo,Off-Peak,4.5
+TRP_016,2025-11-20,Colombo,2,Food,Street Food,10000,Card,Solo,Off-Peak,4.8
+TRP_010,2025-06-19,Nuwara Eliya,3,Activities,Museum,21900,Card,Couple,Off-Peak,4.3
+TRP_096,2026-04-02,Ella,3,Shopping,Local Products,6600,Card,Family,Off-Peak,4.1
+TRP_131,2026-05-18,Sigiriya,3,Accommodation,Hostel,32700,Cash,Solo,Off-Peak,4.5
+TRP_098,2026-04-24,Colombo,3,Activities,Tickets,10700,Cash,Solo,Off-Peak,3.7
+TRP_112,2025-10-05,Sigiriya,4,Accommodation,Guest House,70700,Cash,Couple,Off-Peak,4.0
+TRP_091,2025-11-14,Galle,4,Food,Cafe,25600,Cash,Couple,Off-Peak,2.6
+TRP_127,2026-02-27,Arugam Bay,5,Shopping,Gifts,5900,Card,Couple,Peak,4.8
+TRP_026,2025-07-23,Ella,3,Activities,Safari,18600,Cash,Solo,Peak,3.5
+TRP_125,2025-11-25,Mirissa,3,Food,Street Food,9900,Cash,Solo,Off-Peak,4.3
+TRP_140,2025-04-16,Nuwara Eliya,2,Miscellaneous,Mobile Data,3600,Card,Solo,Off-Peak,3.7
+TRP_004,2025-10-24,Ella,2,Activities,Surfing,18600,Card,Family,Off-Peak,4.1
+TRP_103,2025-04-19,Nuwara Eliya,3,Accommodation,Guest House,46100,Cash,Solo,Off-Peak,3.7
+TRP_026,2025-07-23,Ella,3,Shopping,Souvenirs,4300,Online Transfer,Solo,Peak,4.4
+TRP_065,2026-05-31,Kandy,2,Accommodation,Villa,55800,Card,Family,Off-Peak,5.0
+TRP_095,2026-01-15,Colombo,2,Shopping,Gifts,17300,Online Transfer,Couple,Peak,4.0
+TRP_016,2025-11-20,Colombo,2,Transport,Train,4400,Cash,Solo,Off-Peak,5.0
+TRP_012,2026-02-21,Nuwara Eliya,2,Transport,Train,8400,Cash,Solo,Peak,3.4
+TRP_104,2026-05-26,Nuwara Eliya,3,Food,Cafe,11600,Card,Couple,Off-Peak,4.1
+TRP_093,2025-03-23,Galle,3,Transport,Train,19600,Card,Couple,Peak,3.8
+TRP_006,2025-11-19,Colombo,1,Shopping,Gifts,15900,Cash,Couple,Off-Peak,4.6
+TRP_100,2025-08-19,Arugam Bay,4,Transport,Taxi,41700,Card,Family,Peak,4.5
+TRP_044,2025-07-22,Mirissa,5,Transport,Taxi,12000,Card,Solo,Peak,4.9
+TRP_065,2026-05-31,Kandy,2,Activities,Guided Tour,15200,Card,Family,Off-Peak,3.9
+TRP_055,2025-09-04,Galle,3,Transport,Fuel,28200,Online Transfer,Family,Off-Peak,5.0
+TRP_073,2025-12-29,Ella,2,Food,Street Food,12600,Card,Couple,Peak,4.5
+TRP_034,2025-01-27,Kandy,3,Miscellaneous,Tips,12000,Cash,Couple,Peak,4.1
+TRP_106,2026-01-18,Kandy,3,Shopping,Clothes,12000,Cash,Couple,Peak,4.0
+TRP_050,2026-03-01,Ella,4,Food,Hotel Dining,32100,Online Transfer,Family,Peak,4.6
+TRP_082,2026-06-24,Nuwara Eliya,2,Accommodation,Hostel,49700,Cash,Couple,Off-Peak,4.4
+TRP_042,2025-08-20,Nuwara Eliya,4,Miscellaneous,Laundry,21900,Card,Couple,Peak,4.3
+TRP_069,2025-04-21,Nuwara Eliya,3,Food,Restaurant,28000,Card,Family,Off-Peak,3.0
+TRP_118,2026-05-30,Galle,4,Activities,Guided Tour,47700,Card,Family,Off-Peak,4.5
+TRP_045,2026-05-28,Arugam Bay,5,Accommodation,Villa,72600,Card,Couple,Off-Peak,4.3
+TRP_109,2026-04-28,Mirissa,2,Shopping,Local Products,6900,Card,Couple,Off-Peak,4.1
+TRP_040,2025-07-18,Arugam Bay,4,Food,Restaurant,14900,Card,Solo,Peak,3.6
+TRP_128,2025-08-11,Ella,5,Accommodation,Hotel,44500,Cash,Solo,Peak,4.9
+TRP_081,2026-06-24,Colombo,1,Accommodation,Villa,34100,Cash,Couple,Off-Peak,4.6
+TRP_033,2025-07-24,Arugam Bay,2,Shopping,Souvenirs,10100,Card,Couple,Peak,5.0
+TRP_095,2026-01-15,Colombo,2,Miscellaneous,Tips,12000,Cash,Couple,Peak,4.3
+TRP_059,2025-12-13,Galle,2,Transport,Tuk Tuk,15800,Cash,Couple,Peak,4.1
+TRP_052,2025-12-06,Arugam Bay,2,Transport,Bus,35200,Cash,Family,Peak,4.2
+TRP_103,2025-04-19,Nuwara Eliya,3,Transport,Tuk Tuk,5300,Cash,Solo,Off-Peak,3.9
+TRP_077,2026-04-18,Kandy,3,Activities,Tickets,11200,Cash,Solo,Off-Peak,4.5
+TRP_026,2025-07-23,Ella,3,Food,Cafe,8300,Card,Solo,Peak,4.9
+TRP_113,2025-06-11,Colombo,2,Miscellaneous,Mobile Data,10300,Card,Couple,Off-Peak,3.7
+TRP_140,2025-04-16,Nuwara Eliya,2,Food,Restaurant,5400,Cash,Solo,Off-Peak,4.3
+TRP_124,2025-01-17,Colombo,1,Shopping,Local Products,14100,Cash,Solo,Peak,4.8
+TRP_031,2025-05-11,Sigiriya,4,Food,Hotel Dining,19400,Cash,Couple,Off-Peak,4.5
+TRP_063,2025-01-22,Ella,2,Shopping,Souvenirs,12300,Cash,Family,Peak,4.3
+TRP_123,2025-01-04,Ella,2,Shopping,Souvenirs,9900,Cash,Family,Peak,3.5
+TRP_014,2025-01-03,Ella,5,Miscellaneous,Tips,7300,Card,Solo,Peak,5.0
+TRP_062,2026-03-31,Galle,3,Transport,Taxi,25200,Cash,Family,Peak,4.0
+TRP_077,2026-04-18,Kandy,3,Accommodation,Hotel,28500,Card,Solo,Off-Peak,4.3
+TRP_046,2025-06-29,Mirissa,5,Shopping,Souvenirs,6800,Online Transfer,Couple,Off-Peak,4.2
+TRP_061,2025-11-08,Arugam Bay,5,Shopping,Gifts,3000,Online Transfer,Solo,Off-Peak,4.4
+TRP_065,2026-05-31,Kandy,2,Shopping,Gifts,12300,Card,Family,Off-Peak,4.6
+TRP_091,2025-11-14,Galle,4,Accommodation,Hotel,66700,Card,Couple,Off-Peak,3.9
+TRP_020,2025-09-13,Ella,2,Accommodation,Guest House,28700,Online Transfer,Couple,Off-Peak,4.1
+TRP_021,2025-09-12,Nuwara Eliya,3,Miscellaneous,Laundry,6000,Online Transfer,Solo,Off-Peak,3.8
+TRP_126,2025-12-19,Kandy,4,Activities,Safari,38100,Cash,Couple,Peak,5.0
+TRP_055,2025-09-04,Galle,3,Shopping,Gifts,19200,Online Transfer,Family,Off-Peak,3.9
+TRP_110,2025-11-02,Ella,3,Accommodation,Guest House,73200,Card,Family,Off-Peak,4.4
+TRP_017,2025-12-24,Kandy,2,Miscellaneous,Tips,16400,Card,Family,Peak,4.5
+TRP_017,2025-12-24,Kandy,2,Transport,Tuk Tuk,19600,Cash,Family,Peak,4.6
+TRP_070,2025-07-05,Galle,2,Transport,Fuel,13800,Cash,Couple,Peak,4.2
+TRP_086,2025-08-30,Nuwara Eliya,3,Accommodation,Hotel,193200,Online Transfer,Family,Peak,3.1
+TRP_130,2025-05-30,Ella,2,Transport,Fuel,7200,Card,Solo,Off-Peak,4.2
+TRP_080,2025-06-03,Mirissa,4,Food,Hotel Dining,14600,Cash,Solo,Off-Peak,3.7
+TRP_081,2026-06-24,Colombo,1,Food,Cafe,8100,Cash,Couple,Off-Peak,4.5
+TRP_003,2025-09-28,Sigiriya,2,Food,Street Food,8300,Online Transfer,Couple,Off-Peak,4.5
+TRP_009,2026-06-28,Mirissa,2,Food,Street Food,11000,Cash,Couple,Off-Peak,4.7
+TRP_009,2026-06-28,Mirissa,2,Accommodation,Villa,26600,Online Transfer,Couple,Off-Peak,3.6
+TRP_032,2026-01-24,Galle,3,Accommodation,Hotel,175100,Card,Family,Peak,3.4
+TRP_123,2025-01-04,Ella,2,Transport,Taxi,31300,Cash,Family,Peak,4.4
+TRP_113,2025-06-11,Colombo,2,Accommodation,Guest House,68100,Card,Couple,Off-Peak,4.5
+TRP_067,2026-02-13,Sigiriya,3,Accommodation,Villa,57100,Cash,Couple,Peak,3.8
+TRP_034,2025-01-27,Kandy,3,Accommodation,Guest House,57700,Cash,Couple,Peak,4.4
+TRP_090,2025-12-13,Galle,4,Food,Cafe,18900,Cash,Solo,Peak,4.7
+TRP_093,2025-03-23,Galle,3,Shopping,Gifts,12700,Cash,Couple,Peak,4.4
+TRP_033,2025-07-24,Arugam Bay,2,Miscellaneous,Mobile Data,8900,Online Transfer,Couple,Peak,4.7
+TRP_097,2025-10-25,Mirissa,4,Transport,Bus,29500,Card,Family,Off-Peak,4.0
+TRP_098,2026-04-24,Colombo,3,Miscellaneous,Laundry,6800,Card,Solo,Off-Peak,3.6
+TRP_049,2025-04-27,Kandy,3,Accommodation,Villa,100900,Card,Family,Off-Peak,3.9
+TRP_058,2026-03-02,Galle,2,Activities,Guided Tour,8100,Online Transfer,Solo,Peak,4.5
+TRP_109,2026-04-28,Mirissa,2,Activities,Surfing,13000,Card,Couple,Off-Peak,4.3
+TRP_004,2025-10-24,Ella,2,Accommodation,Hostel,37300,Card,Family,Off-Peak,4.6
+TRP_085,2026-06-13,Kandy,2,Accommodation,Guest House,23100,Online Transfer,Solo,Off-Peak,4.8
+TRP_048,2026-03-29,Nuwara Eliya,2,Shopping,Souvenirs,5500,Card,Solo,Peak,4.2
+TRP_136,2025-02-03,Colombo,1,Shopping,Gifts,39700,Card,Family,Peak,4.0
+TRP_064,2025-06-28,Colombo,1,Accommodation,Guest House,20400,Card,Couple,Off-Peak,5.0
+TRP_055,2025-09-04,Galle,3,Food,Restaurant,34800,Online Transfer,Family,Off-Peak,4.0
+TRP_078,2026-04-07,Arugam Bay,2,Food,Cafe,13700,Cash,Family,Off-Peak,4.5
+TRP_067,2026-02-13,Sigiriya,3,Miscellaneous,Laundry,11000,Online Transfer,Couple,Peak,3.9
+TRP_056,2025-09-14,Nuwara Eliya,3,Accommodation,Hostel,123000,Cash,Family,Off-Peak,3.7
+TRP_074,2026-04-17,Arugam Bay,4,Activities,Safari,13800,Cash,Solo,Off-Peak,3.6
+TRP_002,2026-03-06,Mirissa,3,Shopping,Gifts,8900,Cash,Couple,Peak,3.9
+TRP_047,2026-02-15,Nuwara Eliya,4,Activities,Museum,17200,Card,Solo,Peak,4.4
+TRP_005,2025-09-08,Ella,3,Transport,Train,14700,Online Transfer,Couple,Off-Peak,4.3
+TRP_042,2025-08-20,Nuwara Eliya,4,Transport,Train,20000,Online Transfer,Couple,Peak,4.2
+TRP_129,2025-11-26,Ella,4,Accommodation,Villa,67800,Cash,Couple,Off-Peak,4.4
+TRP_101,2025-12-12,Colombo,3,Transport,Train,5600,Card,Solo,Peak,4.4
+TRP_138,2025-12-01,Galle,2,Transport,Tuk Tuk,15900,Card,Couple,Peak,4.4
+TRP_074,2026-04-17,Arugam Bay,4,Food,Hotel Dining,11200,Online Transfer,Solo,Off-Peak,5.0
+TRP_118,2026-05-30,Galle,4,Accommodation,Villa,158200,Cash,Family,Off-Peak,4.0
+TRP_038,2025-10-29,Kandy,2,Shopping,Local Products,7500,Cash,Couple,Off-Peak,4.2
+TRP_112,2025-10-05,Sigiriya,4,Food,Cafe,15900,Card,Couple,Off-Peak,4.5
+TRP_018,2025-10-16,Ella,3,Accommodation,Villa,33700,Card,Couple,Off-Peak,3.8
+TRP_081,2026-06-24,Colombo,1,Shopping,Local Products,11800,Online Transfer,Couple,Off-Peak,4.6
+TRP_129,2025-11-26,Ella,4,Transport,Fuel,12100,Card,Couple,Off-Peak,4.0
+TRP_134,2026-01-18,Galle,3,Shopping,Gifts,11200,Cash,Couple,Peak,4.5
+TRP_054,2025-04-13,Mirissa,5,Accommodation,Villa,42700,Card,Solo,Off-Peak,3.8
+TRP_035,2026-01-15,Nuwara Eliya,2,Food,Street Food,11700,Card,Couple,Peak,4.5
+TRP_113,2025-06-11,Colombo,2,Activities,Tickets,999999,Card,Couple,Off-Peak,4.1
+TRP_100,2025-08-19,Arugam Bay,4,Accommodation,Hotel,213100,Cash,Family,Peak,4.1
+TRP_029,2025-05-22,Colombo,1,Food,Street Food,4500,Card,Solo,Off-Peak,4.2
+TRP_015,2026-05-04,Kandy,4,Accommodation,Hotel,83200,Online Transfer,Family,Off-Peak,4.3
+TRP_073,2025-12-29,Ella,2,Miscellaneous,Laundry,7900,Cash,Couple,Peak,4.6
+TRP_052,2025-12-06,Arugam Bay,2,Shopping,Gifts,11600,Card,Family,Peak,4.9
+TRP_013,2025-07-07,Ella,4,Activities,Guided Tour,42400,Card,Couple,Peak,3.9
+TRP_084,2026-03-28,Arugam Bay,5,Activities,Tickets,81900,Card,Family,Peak,4.2
+TRP_036,2026-05-11,Arugam Bay,5,Accommodation,Guest House,97100,Online Transfer,Couple,Off-Peak,4.4
+TRP_051,2025-07-13,Galle,4,Activities,Safari,18000,Card,Solo,Peak,3.9
+TRP_045,2026-05-28,Arugam Bay,5,Food,Restaurant,20300,Cash,Couple,Off-Peak,3.4
+TRP_017,2025-12-24,Kandy,2,Food,Restaurant,19000,Card,Family,Peak,4.3
+TRP_119,2025-08-12,Mirissa,3,Activities,Museum,33900,Online Transfer,Couple,Peak,3.6
+TRP_022,2025-10-13,Arugam Bay,4,Transport,Taxi,16800,Cash,Couple,Off-Peak,4.3
+TRP_023,2026-03-23,Mirissa,2,Miscellaneous,Laundry,10100,Card,Couple,Peak,4.4
+TRP_139,2025-03-26,Mirissa,4,Miscellaneous,Emergency,8200,Card,Solo,Peak,3.9
+TRP_054,2025-04-13,Mirissa,5,Miscellaneous,Tips,12000,Card,Solo,Off-Peak,4.2
+TRP_045,2026-05-28,Arugam Bay,5,Activities,Tickets,46800,Online Transfer,Couple,Off-Peak,4.3
+TRP_001,2025-01-26,Colombo,3,Accommodation,Hotel,62100,Card,Solo,Peak,3.4
+TRP_139,2025-03-26,Mirissa,4,Shopping,Souvenirs,7100,Cash,Solo,Peak,4.2
+TRP_063,2025-01-22,Ella,2,Accommodation,Guest House,74600,Cash,Family,Peak,3.2
+TRP_122,2026-03-07,Arugam Bay,4,Shopping,Clothes,14600,Card,Family,Peak,3.8
+TRP_076,2026-05-21,Mirissa,5,Food,Street Food,54600,Cash,Family,Off-Peak,4.6
+TRP_052,2025-12-06,Arugam Bay,2,Miscellaneous,Laundry,14700,Online Transfer,Family,Peak,4.8
+TRP_109,2026-04-28,Mirissa,2,Transport,Fuel,15500,Online Transfer,Couple,Off-Peak,3.9
+TRP_022,2025-10-13,Arugam Bay,4,Food,Restaurant,24100,Online Transfer,Couple,Off-Peak,4.3
+TRP_043,2025-06-27,Ella,2,Shopping,Clothes,3000,Online Transfer,Solo,Off-Peak,3.8
+TRP_094,2026-01-08,Colombo,3,Transport,Train,23600,Cash,Family,Peak,3.6
+TRP_082,2026-06-24,Nuwara Eliya,2,Transport,Tuk Tuk,14900,Online Transfer,Couple,Off-Peak,4.7
+TRP_052,2025-12-06,Arugam Bay,2,Food,Cafe,30300,Cash,Family,Peak,3.8
+TRP_060,2025-09-26,Colombo,3,Food,Street Food,25500,Online Transfer,Couple,Off-Peak,3.5
+TRP_097,2025-10-25,Mirissa,4,Accommodation,Guest House,153600,Card,Family,Off-Peak,3.0
+TRP_027,2026-06-15,Ella,5,Transport,Tuk Tuk,4800,Card,Solo,Off-Peak,4.1
+TRP_085,2026-06-13,Kandy,2,Food,Restaurant,5000,Online Transfer,Solo,Off-Peak,3.9
+TRP_108,2025-08-22,Mirissa,2,Accommodation,Hostel,46800,Cash,Couple,Peak,3.8
+TRP_127,2026-02-27,Arugam Bay,5,Transport,Taxi,21400,Cash,Couple,Peak,4.0
+TRP_118,2026-05-30,Galle,4,Shopping,Local Products,15700,Cash,Family,Off-Peak,4.4
+TRP_051,2025-07-13,Galle,4,Accommodation,Hostel,64200,Cash,Solo,Peak,3.5
+TRP_100,2025-08-19,Arugam Bay,4,Food,Street Food,42700,Cash,Family,Peak,4.2
+TRP_057,2025-10-21,Mirissa,3,Miscellaneous,Tips,8500,Online Transfer,Couple,Off-Peak,4.2
+TRP_058,2026-03-02,Galle,2,Transport,Taxi,7800,Online Transfer,Solo,Peak,3.9
+TRP_009,2026-06-28,Mirissa,2,Shopping,Gifts,5900,Online Transfer,Couple,Off-Peak,4.1
+TRP_049,2025-04-27,Kandy,3,Shopping,Clothes,13500,Cash,Family,Off-Peak,3.6
+TRP_037,2025-08-06,Ella,4,Food,Cafe,42900,Cash,Family,Peak,4.2
+TRP_040,2025-07-18,Arugam Bay,4,Accommodation,Guest House,48100,Cash,Solo,Peak,4.1
+TRP_118,2026-05-30,Galle,4,Food,Cafe,54400,Cash,Family,Off-Peak,4.4
+TRP_020,2025-09-13,Ella,2,Activities,Tickets,13000,Cash,Couple,Off-Peak,4.5
+TRP_012,2026-02-21,Nuwara Eliya,2,Accommodation,Hostel,45000,Card,Solo,Peak,4.8
+TRP_135,2025-06-25,Kandy,2,Accommodation,Hotel,29600,Online Transfer,Couple,Off-Peak,5.0
+TRP_137,2026-01-29,Colombo,3,Accommodation,Villa,61100,Cash,Solo,Peak,3.9
+TRP_019,2026-03-29,Ella,5,Food,Street Food,34900,Card,Couple,Peak,5.0
+TRP_080,2025-06-03,Mirissa,4,Accommodation,Villa,49200,Online Transfer,Solo,Off-Peak,4.0
+TRP_126,2025-12-19,Kandy,4,Accommodation,Hostel,107200,Cash,Couple,Peak,3.8
+TRP_102,2026-02-20,Mirissa,4,Miscellaneous,Mobile Data,20400,Card,Couple,Peak,4.7
+TRP_074,2026-04-17,Arugam Bay,4,Accommodation,Hostel,46500,Card,Solo,Off-Peak,4.2
+TRP_034,2025-01-27,Kandy,3,Food,Cafe,22100,Cash,Couple,Peak,3.7
+TRP_057,2025-10-21,Mirissa,3,Transport,Train,14400,Cash,Couple,Off-Peak,3.9
+TRP_108,2025-08-22,Mirissa,2,Shopping,Clothes,10200,Cash,Couple,Peak,3.9
+TRP_100,2025-08-19,Arugam Bay,4,Shopping,Clothes,16900,Card,Family,Peak,3.8
+TRP_135,2025-06-25,Kandy,2,Activities,Tickets,13900,Online Transfer,Couple,Off-Peak,4.2
+TRP_028,2025-06-12,Colombo,3,Transport,Taxi,12300,Cash,Family,Off-Peak,4.8
+TRP_023,2026-03-23,Mirissa,2,Shopping,Souvenirs,9500,Card,Couple,Peak,3.4
+TRP_132,2025-03-11,Colombo,3,Accommodation,Hotel,68300,Card,Solo,Peak,4.2
+TRP_122,2026-03-07,Arugam Bay,4,Food,Cafe,64800,Card,Family,Peak,4.1
+TRP_035,2026-01-15,Nuwara Eliya,2,Transport,Fuel,12800,Card,Couple,Peak,4.8
+TRP_095,2026-01-15,Colombo,2,Food,Street Food,25800,Cash,Couple,Peak,3.6
+TRP_088,2026-05-27,Sigiriya,4,Accommodation,Guest House,50400,Cash,Couple,Off-Peak,3.7
+TRP_076,2026-05-21,Mirissa,5,Activities,Surfing,67700,Card,Family,Off-Peak,4.3
+TRP_139,2025-03-26,Mirissa,4,Transport,Taxi,10800,Cash,Solo,Peak,3.6
+TRP_076,2026-05-21,Mirissa,5,Miscellaneous,Tips,32100,Cash,Family,Off-Peak,4.0
+TRP_060,2025-09-26,Colombo,3,Shopping,Local Products,15100,Card,Couple,Off-Peak,4.2
+TRP_066,2025-03-24,Nuwara Eliya,3,Transport,Tuk Tuk,16100,Cash,Couple,Peak,3.8
+TRP_129,2025-11-26,Ella,4,Shopping,Local Products,4600,Cash,Couple,Off-Peak,3.9
+TRP_027,2026-06-15,Ella,5,Accommodation,Hostel,36100,Cash,Solo,Off-Peak,3.9
+TRP_089,2026-06-04,Nuwara Eliya,4,Activities,Surfing,24900,Cash,Couple,Off-Peak,4.6
+TRP_026,2025-07-23,Ella,3,Miscellaneous,Tips,6300,Card,Solo,Peak,4.9
+TRP_087,2025-03-23,Kandy,2,Activities,Guided Tour,11800,Card,Solo,Peak,4.7
+TRP_060,2025-09-26,Colombo,3,Activities,Guided Tour,13900,Online Transfer,Couple,Off-Peak,4.6
+TRP_004,2025-10-24,Ella,2,Miscellaneous,Tips,9900,Card,Family,Off-Peak,4.4
+TRP_033,2025-07-24,Arugam Bay,2,Accommodation,Hotel,43300,Card,Couple,Peak,4.1
+TRP_114,2025-02-08,Mirissa,3,Transport,Bus,22300,Online Transfer,Couple,Peak,4.3
+TRP_059,2025-12-13,Galle,2,Accommodation,Guest House,44500,Online Transfer,Couple,Peak,4.4
+TRP_130,2025-05-30,Ella,2,Miscellaneous,Laundry,3100,Cash,Solo,Off-Peak,3.6
+TRP_003,2025-09-28,Sigiriya,2,Transport,Tuk Tuk,11800,Online Transfer,Couple,Off-Peak,4.3
+TRP_057,2025-10-21,Mirissa,3,Activities,Guided Tour,22600,Cash,Couple,Off-Peak,5.0
+TRP_066,2025-03-24,Nuwara Eliya,3,Activities,Tickets,20900,Online Transfer,Couple,Peak,3.7
+TRP_006,2025-11-19,Colombo,1,Accommodation,Hostel,24400,Cash,Couple,Off-Peak,3.5
+TRP_105,2025-09-28,Nuwara Eliya,4,Food,Cafe,15500,Cash,Couple,Off-Peak,5.0
+TRP_032,2026-01-24,Galle,3,Transport,Taxi,36100,Cash,Family,Peak,4.0
+TRP_008,2025-10-01,Nuwara Eliya,4,Transport,Bus,7800,Card,Solo,Off-Peak,4.9
+TRP_127,2026-02-27,Arugam Bay,5,Food,Restaurant,28800,Online Transfer,Couple,Peak,3.6
+TRP_046,2025-06-29,Mirissa,5,Miscellaneous,Laundry,15700,Cash,Couple,Off-Peak,4.4
+TRP_056,2025-09-14,Nuwara Eliya,3,Transport,Tuk Tuk,19100,Cash,Family,Off-Peak,3.7
+TRP_117,2025-09-12,Nuwara Eliya,2,Transport,Taxi,7500,Card,Solo,Off-Peak,3.7
+TRP_102,2026-02-20,Mirissa,4,Accommodation,Hostel,105800,Card,Couple,Peak,3.9
+TRP_051,2025-07-13,Galle,4,Shopping,Souvenirs,5700,Cash,Solo,Peak,4.3
+TRP_107,2025-11-03,Arugam Bay,4,Transport,Train,15000,Online Transfer,Couple,Off-Peak,4.5
+TRP_029,2025-05-22,Colombo,1,Transport,Fuel,6500,Cash,Solo,Off-Peak,3.3
+TRP_024,2025-12-01,Colombo,2,Accommodation,Hostel,57100,Card,Couple,Peak,3.5
+TRP_100,2025-08-19,Arugam Bay,4,Miscellaneous,Mobile Data,24600,Cash,Family,Peak,4.3
+TRP_064,2025-06-28,Colombo,1,Food,Restaurant,9200,Cash,Couple,Off-Peak,4.5
+TRP_054,2025-04-13,Mirissa,5,Activities,Museum,28900,Cash,Solo,Off-Peak,4.5
+TRP_021,2025-09-12,Nuwara Eliya,3,Shopping,Clothes,4500,Cash,Solo,Off-Peak,4.2
+TRP_081,2026-06-24,Colombo,1,Miscellaneous,Tips,3000,Card,Couple,Off-Peak,4.3
+TRP_033,2025-07-24,Arugam Bay,2,Food,Cafe,10300,Card,Couple,Peak,4.6
+TRP_067,2026-02-13,Sigiriya,3,Transport,Fuel,19700,Cash,Couple,Peak,4.4
+TRP_079,2026-01-17,Ella,4,Food,Street Food,18500,Cash,Couple,Peak,4.3
+TRP_011,2025-08-24,Galle,4,Shopping,Clothes,6500,Card,Solo,Peak,4.1
+TRP_097,2025-10-25,Mirissa,4,Food,Cafe,44100,Cash,Family,Off-Peak,3.4
+TRP_042,2025-08-20,Nuwara Eliya,4,Activities,Safari,39000,Card,Couple,Peak,4.9
+TRP_053,2026-01-25,Sigiriya,3,Food,Cafe,15800,Card,Couple,Peak,4.2
+TRP_004,2025-10-24,Ella,2,Transport,Taxi,21100,Cash,Family,Off-Peak,4.1
+TRP_090,2025-12-13,Galle,4,Transport,Fuel,7500,Cash,Solo,Peak,3.4
+TRP_060,2025-09-26,Colombo,3,Miscellaneous,Tips,9700,Cash,Couple,Off-Peak,4.3
+TRP_048,2026-03-29,Nuwara Eliya,2,Activities,Safari,8700,Cash,Solo,Peak,4.1
+TRP_092,2026-03-27,Galle,3,Shopping,Clothes,8000,Card,Solo,Peak,4.7
+TRP_105,2025-09-28,Nuwara Eliya,4,Transport,Taxi,14400,Cash,Couple,Off-Peak,4.4
+TRP_135,2025-06-25,Kandy,2,Food,Restaurant,9300,Cash,Couple,Off-Peak,3.7
+TRP_036,2026-05-11,Arugam Bay,5,Transport,Fuel,17300,Cash,Couple,Off-Peak,3.9
+TRP_022,2025-10-13,Arugam Bay,4,Accommodation,Villa,61300,Online Transfer,Couple,Off-Peak,4.5
+TRP_137,2026-01-29,Colombo,3,Activities,Museum,13600,Online Transfer,Solo,Peak,4.1
+TRP_102,2026-02-20,Mirissa,4,Shopping,Local Products,9500,Online Transfer,Couple,Peak,3.9
+TRP_018,2025-10-16,Ella,3,Food,Street Food,11600,Online Transfer,Couple,Off-Peak,4.5
+TRP_034,2025-01-27,Kandy,3,Transport,Taxi,17400,Online Transfer,Couple,Peak,3.9
+TRP_056,2025-09-14,Nuwara Eliya,3,Miscellaneous,Tips,13600,Online Transfer,Family,Off-Peak,4.0
+TRP_117,2025-09-12,Nuwara Eliya,2,Shopping,Gifts,3700,Cash,Solo,Off-Peak,3.9
+TRP_104,2026-05-26,Nuwara Eliya,3,Accommodation,Hostel,61300,Online Transfer,Couple,Off-Peak,3.9
+TRP_099,2026-06-14,Nuwara Eliya,3,Accommodation,Guest House,33300,Card,Solo,Off-Peak,4.9
+TRP_123,2025-01-04,Ella,2,Food,Cafe,25600,Cash,Family,Peak,3.3
+TRP_124,2025-01-17,Colombo,1,Transport,Bus,8100,Card,Solo,Peak,4.3
+TRP_132,2025-03-11,Colombo,3,Activities,Museum,12900,Cash,Solo,Peak,4.0
+TRP_002,2026-03-06,Mirissa,3,Accommodation,Guest House,62100,Card,Couple,Peak,3.7
+TRP_138,2025-12-01,Galle,2,Activities,Tickets,16800,Card,Couple,Peak,4.2
+TRP_009,2026-06-28,Mirissa,2,Activities,Tickets,18200,Cash,Couple,Off-Peak,3.5
+TRP_088,2026-05-27,Sigiriya,4,Shopping,Souvenirs,6500,Card,Couple,Off-Peak,4.0
+TRP_127,2026-02-27,Arugam Bay,5,Activities,Safari,40600,Cash,Couple,Peak,4.4
+TRP_032,2026-01-24,Galle,3,Miscellaneous,Tips,29900,Card,Family,Peak,4.6
+TRP_004,2025-10-24,Ella,2,Food,Street Food,17400,Cash,Family,Off-Peak,3.7
+TRP_010,2025-06-19,Nuwara Eliya,3,Accommodation,Guest House,83400,Card,Couple,Off-Peak,4.1
+TRP_136,2025-02-03,Colombo,1,Transport,Taxi,20500,Cash,Family,Peak,4.5
+TRP_128,2025-08-11,Ella,5,Miscellaneous,Mobile Data,9400,Cash,Solo,Peak,4.6
+TRP_001,2025-01-26,Colombo,3,Activities,Museum,13200,Cash,Solo,Peak,4.7
+TRP_101,2025-12-12,Colombo,3,Miscellaneous,Laundry,8200,Card,Solo,Peak,3.9
+TRP_091,2025-11-14,Galle,4,Miscellaneous,Laundry,13700,Cash,Couple,Off-Peak,3.7
+TRP_059,2025-12-13,Galle,2,Shopping,Souvenirs,12200,Card,Couple,Peak,3.9
+TRP_114,2025-02-08,Mirissa,3,Food,Hotel Dining,18200,Card,Couple,Peak,4.2
+TRP_084,2026-03-28,Arugam Bay,5,Miscellaneous,Laundry,49200,Card,Family,Peak,4.2
+TRP_129,2025-11-26,Ella,4,Activities,Surfing,24200,Online Transfer,Couple,Off-Peak,3.7
+TRP_053,2026-01-25,Sigiriya,3,Miscellaneous,Tips,8900,Card,Couple,Peak,3.9
+TRP_018,2025-10-16,Ella,3,Activities,Guided Tour,22700,Online Transfer,Couple,Off-Peak,3.8
+TRP_054,2025-04-13,Mirissa,5,Food,Street Food,19100,Cash,Solo,Off-Peak,4.0
+TRP_092,2026-03-27,Galle,3,Accommodation,Villa,41000,Online Transfer,Solo,Peak,4.3
+TRP_043,2025-06-27,Ella,2,Food,Cafe,3900,Cash,Solo,Off-Peak,3.5
+TRP_006,2025-11-19,Colombo,1,Food,Cafe,8800,Cash,Couple,Off-Peak,3.6
+TRP_110,2025-11-02,Ella,3,Food,Hotel Dining,21700,Cash,Family,Off-Peak,3.7
+TRP_050,2026-03-01,Ella,4,Accommodation,Villa,153400,Card,Family,Peak,2.9
+TRP_082,2026-06-24,Nuwara Eliya,2,Activities,Safari,14300,Card,Couple,Off-Peak,4.2
+TRP_010,2025-06-19,Nuwara Eliya,3,Transport,Taxi,14000,Cash,Couple,Off-Peak,4.8
+TRP_068,2025-12-04,Colombo,3,Food,Restaurant,14800,Online Transfer,Solo,Peak,4.1
+TRP_044,2025-07-22,Mirissa,5,Accommodation,Villa,79300,Online Transfer,Solo,Peak,3.8
+TRP_008,2025-10-01,Nuwara Eliya,4,Food,Street Food,13600,Online Transfer,Solo,Off-Peak,4.2
+TRP_030,2026-01-25,Mirissa,5,Accommodation,Hostel,67500,Card,Solo,Peak,3.9
+TRP_045,2026-05-28,Arugam Bay,5,Transport,Tuk Tuk,13100,Card,Couple,Off-Peak,4.8
+TRP_135,2025-06-25,Kandy,2,Transport,Tuk Tuk,13300,Card,Couple,Off-Peak,4.3
+TRP_070,2025-07-05,Galle,2,Food,Cafe,17400,Cash,Couple,Peak,4.0
+TRP_088,2026-05-27,Sigiriya,4,Miscellaneous,Laundry,12100,Cash,Couple,Off-Peak,3.7
+TRP_069,2025-04-21,Nuwara Eliya,3,Transport,Taxi,20500,Cash,Family,Off-Peak,3.7
+TRP_083,2025-09-01,Colombo,2,Activities,Safari,7500,Cash,Couple,Off-Peak,4.4
+TRP_135,2025-06-25,Kandy,2,Shopping,Local Products,6200,Online Transfer,Couple,Off-Peak,4.0
+TRP_033,2025-07-24,Arugam Bay,2,Activities,Safari,26600,Card,Couple,Peak,3.9
+TRP_119,2025-08-12,Mirissa,3,Shopping,Clothes,10700,Card,Couple,Peak,3.5
+TRP_024,2025-12-01,Colombo,2,Food,Cafe,20900,Card,Couple,Peak,4.0
+TRP_116,2025-01-15,Mirissa,4,Shopping,Clothes,18800,Online Transfer,Family,Peak,5.0
+TRP_037,2025-08-06,Ella,4,Accommodation,Villa,104500,Card,Family,Peak,3.8
+TRP_120,2025-12-02,Ella,5,Food,Hotel Dining,15800,Online Transfer,Solo,Peak,4.1
+TRP_121,2025-01-04,Galle,4,Activities,Guided Tour,20300,Cash,Solo,Peak,3.4
+TRP_094,2026-01-08,Colombo,3,Activities,Surfing,43800,Cash,Family,Peak,4.3
+TRP_097,2025-10-25,Mirissa,4,Activities,Safari,55600,Card,Family,Off-Peak,3.3
+TRP_099,2026-06-14,Nuwara Eliya,3,Activities,Museum,8500,Cash,Solo,Off-Peak,4.2
+TRP_136,2025-02-03,Colombo,1,Food,Hotel Dining,22900,Online Transfer,Family,Peak,4.5
+TRP_117,2025-09-12,Nuwara Eliya,2,Activities,Tickets,7400,Card,Solo,Off-Peak,4.5
+TRP_121,2025-01-04,Galle,4,Food,Restaurant,16700,Online Transfer,Solo,Peak,4.2
+TRP_013,2025-07-07,Ella,4,Transport,Bus,13700,Cash,Couple,Peak,4.2
+TRP_136,2025-02-03,Colombo,1,Accommodation,Guest House,86800,Card,Family,Peak,4.4
+TRP_091,2025-11-14,Galle,4,Transport,Train,13100,Online Transfer,Couple,Off-Peak,3.8
+TRP_032,2026-01-24,Galle,3,Food,Restaurant,40100,Online Transfer,Family,Peak,4.9
+TRP_084,2026-03-28,Arugam Bay,5,Food,Cafe,58400,Online Transfer,Family,Peak,4.3
+TRP_098,2026-04-24,Colombo,3,Accommodation,Hostel,53500,Online Transfer,Solo,Off-Peak,4.4
+TRP_031,2025-05-11,Sigiriya,4,Accommodation,Hotel,63900,Cash,Couple,Off-Peak,4.1
+TRP_058,2026-03-02,Galle,2,Food,Street Food,11000,Online Transfer,Solo,Peak,4.9
+TRP_036,2026-05-11,Arugam Bay,5,Miscellaneous,Emergency,20400,Online Transfer,Couple,Off-Peak,4.9
+TRP_101,2025-12-12,Colombo,3,Food,Hotel Dining,17500,Card,Solo,Peak,4.4
+TRP_068,2025-12-04,Colombo,3,Transport,Tuk Tuk,5900,Cash,Solo,Peak,4.3
+TRP_071,2025-02-20,Ella,2,Shopping,Gifts,3700,Card,Solo,Peak,4.3
+TRP_127,2026-02-27,Arugam Bay,5,Accommodation,Guest House,129100,Cash,Couple,Peak,4.9
+TRP_102,2026-02-20,Mirissa,4,Activities,Surfing,31800,Card,Couple,Peak,4.1
+TRP_029,2025-05-22,Colombo,1,Accommodation,Hotel,17500,Cash,Solo,Off-Peak,4.1
+TRP_098,2026-04-24,Colombo,3,Food,Hotel Dining,11100,Card,Solo,Off-Peak,4.8
+TRP_101,2025-12-12,Colombo,3,Accommodation,Villa,83000,Card,Solo,Peak,4.5
+TRP_021,2025-09-12,Nuwara Eliya,3,Transport,Fuel,5200,Cash,Solo,Off-Peak,5.0
+TRP_043,2025-06-27,Ella,2,Transport,Taxi,8300,Card,Solo,Off-Peak,3.6
+TRP_099,2026-06-14,Nuwara Eliya,3,Transport,Train,5800,Online Transfer,Solo,Off-Peak,4.1
+TRP_112,2025-10-05,Sigiriya,4,Activities,Surfing,27900,Card,Couple,Off-Peak,4.6
+TRP_019,2026-03-29,Ella,5,Shopping,Souvenirs,5000,Online Transfer,Couple,Peak,4.6
+TRP_079,2026-01-17,Ella,4,Transport,Train,16000,Card,Couple,Peak,4.0
+TRP_079,2026-01-17,Ella,4,Accommodation,Hotel,84900,Card,Couple,Peak,4.3
+TRP_022,2025-10-13,Arugam Bay,4,Shopping,Gifts,6300,Cash,Couple,Off-Peak,4.2
+TRP_011,2025-08-24,Galle,4,Accommodation,Guest House,60400,Cash,Solo,Peak,3.7
+TRP_028,2025-06-12,Colombo,3,Shopping,Local Products,30900,Cash,Family,Off-Peak,5.0
+TRP_075,2025-12-24,Ella,4,Activities,Tickets,27800,Cash,Couple,Peak,4.4
+TRP_132,2025-03-11,Colombo,3,Transport,Train,6600,Cash,Solo,Peak,4.1
+TRP_039,2025-11-20,Mirissa,2,Activities,Museum,17000,Card,Couple,Off-Peak,4.6
+TRP_118,2026-05-30,Galle,4,Miscellaneous,Emergency,21800,Card,Family,Off-Peak,4.7
+TRP_108,2025-08-22,Mirissa,2,Activities,Guided Tour,21900,Cash,Couple,Peak,3.5
+TRP_002,2026-03-06,Mirissa,3,Activities,Surfing,35200,Cash,Couple,Peak,4.0
+TRP_114,2025-02-08,Mirissa,3,Accommodation,Hotel,67800,Online Transfer,Couple,Peak,3.6
+TRP_008,2025-10-01,Nuwara Eliya,4,Accommodation,Hotel,62300,Online Transfer,Solo,Off-Peak,3.4
+TRP_085,2026-06-13,Kandy,2,Miscellaneous,Emergency,3900,Cash,Solo,Off-Peak,3.4
+TRP_048,2026-03-29,Nuwara Eliya,2,Food,Hotel Dining,6400,Cash,Solo,Peak,3.9
+TRP_057,2025-10-21,Mirissa,3,Food,Cafe,18100,Card,Couple,Off-Peak,4.5
+TRP_132,2025-03-11,Colombo,3,Miscellaneous,Laundry,12600,Card,Solo,Peak,4.2
+TRP_114,2025-02-08,Mirissa,3,Activities,Surfing,40000,Online Transfer,Couple,Peak,4.4
+TRP_103,2025-04-19,Nuwara Eliya,3,Activities,Safari,8700,Online Transfer,Solo,Off-Peak,5.0
+TRP_049,2025-04-27,Kandy,3,Miscellaneous,Mobile Data,17400,Online Transfer,Family,Off-Peak,3.9
+TRP_056,2025-09-14,Nuwara Eliya,3,Food,Hotel Dining,30900,Card,Family,Off-Peak,4.1
+TRP_077,2026-04-18,Kandy,3,Miscellaneous,Emergency,5600,Card,Solo,Off-Peak,4.2
+TRP_028,2025-06-12,Colombo,3,Activities,Surfing,25300,Cash,Family,Off-Peak,4.2
+TRP_111,2026-01-24,Colombo,2,Activities,Guided Tour,20400,Cash,Family,Peak,3.3
+TRP_125,2025-11-25,Mirissa,3,Accommodation,Guest House,23000,Cash,Solo,Off-Peak,4.4
+TRP_092,2026-03-27,Galle,3,Transport,Fuel,11800,Cash,Solo,Peak,4.4
+TRP_028,2025-06-12,Colombo,3,Accommodation,Villa,148400,Card,Family,Off-Peak,3.9
+TRP_027,2026-06-15,Ella,5,Shopping,Gifts,2800,Online Transfer,Solo,Off-Peak,3.6
+TRP_103,2025-04-19,Nuwara Eliya,3,Shopping,Local Products,4400,Cash,Solo,Off-Peak,4.2
+TRP_130,2025-05-30,Ella,2,Food,Cafe,4200,Cash,Solo,Off-Peak,4.7
+TRP_133,2026-05-30,Galle,4,Accommodation,Hotel,94900,Online Transfer,Couple,Off-Peak,4.3
+TRP_065,2026-05-31,Kandy,2,Transport,Fuel,14700,Online Transfer,Family,Off-Peak,4.7
+TRP_087,2025-03-23,Kandy,2,Miscellaneous,Emergency,4800,Cash,Solo,Peak,4.9
+TRP_061,2025-11-08,Arugam Bay,5,Transport,Bus,7900,Online Transfer,Solo,Off-Peak,4.8
+TRP_035,2026-01-15,Nuwara Eliya,2,Activities,Guided Tour,12600,Cash,Couple,Peak,4.0
+TRP_023,2026-03-23,Mirissa,2,Activities,Surfing,16200,Card,Couple,Peak,3.8
+TRP_120,2025-12-02,Ella,5,Accommodation,Hotel,49200,Online Transfer,Solo,Peak,3.5
+TRP_027,2026-06-15,Ella,5,Food,Hotel Dining,14100,Card,Solo,Off-Peak,3.6
+TRP_134,2026-01-18,Galle,3,Transport,Train,15800,Cash,Couple,Peak,3.8
+TRP_037,2025-08-06,Ella,4,Activities,Safari,73900,Card,Family,Peak,4.2
+TRP_053,2026-01-25,Sigiriya,3,Accommodation,Hotel,64500,Card,Couple,Peak,3.3
+TRP_055,2025-09-04,Galle,3,Activities,Museum,30100,Cash,Family,Off-Peak,4.9
+TRP_075,2025-12-24,Ella,4,Accommodation,Guest House,53300,Cash,Couple,Peak,3.2
+TRP_023,2026-03-23,Mirissa,2,Transport,Train,16200,Online Transfer,Couple,Peak,4.3
+TRP_035,2026-01-15,Nuwara Eliya,2,Accommodation,Hostel,48400,Cash,Couple,Peak,4.6
+TRP_038,2025-10-29,Kandy,2,Activities,Guided Tour,8800,Cash,Couple,Off-Peak,4.4
+TRP_082,2026-06-24,Nuwara Eliya,2,Miscellaneous,Tips,5600,Cash,Couple,Off-Peak,3.6
+TRP_047,2026-02-15,Nuwara Eliya,4,Accommodation,Hotel,76300,Online Transfer,Solo,Peak,3.8
+TRP_078,2026-04-07,Arugam Bay,2,Accommodation,Hotel,53200,Card,Family,Off-Peak,4.0
+TRP_138,2025-12-01,Galle,2,Food,Hotel Dining,12800,Cash,Couple,Peak,4.2
+TRP_024,2025-12-01,Colombo,2,Activities,Tickets,10500,Cash,Couple,Peak,3.6
+TRP_075,2025-12-24,Ella,4,Transport,Tuk Tuk,17500,Cash,Couple,Peak,4.0
+TRP_110,2025-11-02,Ella,3,Activities,Surfing,48300,Cash,Family,Off-Peak,4.6
+TRP_109,2026-04-28,Mirissa,2,Food,Street Food,12400,Online Transfer,Couple,Off-Peak,4.4
+TRP_042,2025-08-20,Nuwara Eliya,4,Accommodation,Hostel,121800,Cash,Couple,Peak,4.0
+TRP_127,2026-02-27,Arugam Bay,5,Miscellaneous,Tips,23600,Online Transfer,Couple,Peak,4.9
+TRP_107,2025-11-03,Arugam Bay,4,Accommodation,Villa,78200,Card,Couple,Off-Peak,3.9
+TRP_128,2025-08-11,Ella,5,Transport,Train,11700,Card,Solo,Peak,4.4
+TRP_113,2025-06-11,Colombo,2,Transport,Train,6800,Online Transfer,Couple,Off-Peak,4.0
+TRP_072,2025-02-26,Galle,2,Food,Restaurant,6600,Cash,Solo,Peak,3.4
+TRP_136,2025-02-03,Colombo,1,Activities,Safari,9600,Card,Family,Peak,3.7
+TRP_096,2026-04-02,Ella,3,Food,Cafe,28600,Online Transfer,Family,Off-Peak,4.3
+TRP_050,2026-03-01,Ella,4,Shopping,Gifts,12200,Card,Family,Peak,4.2
+TRP_116,2025-01-15,Mirissa,4,Accommodation,Guest House,178900,Card,Family,Peak,3.6
+TRP_083,2025-09-01,Colombo,2,Transport,Fuel,10300,Online Transfer,Couple,Off-Peak,4.8
+TRP_093,2025-03-23,Galle,3,Miscellaneous,Tips,9900,Cash,Couple,Peak,4.6
+TRP_021,2025-09-12,Nuwara Eliya,3,Activities,Safari,10900,Cash,Solo,Off-Peak,4.7
+TRP_044,2025-07-22,Mirissa,5,Activities,Museum,32400,Online Transfer,Solo,Peak,4.7
+TRP_122,2026-03-07,Arugam Bay,4,Transport,Taxi,25800,Cash,Family,Peak,4.1
+TRP_070,2025-07-05,Galle,2,Accommodation,Hotel,47900,Cash,Couple,Peak,4.4
+TRP_044,2025-07-22,Mirissa,5,Shopping,Gifts,5200,Cash,Solo,Peak,4.3
+TRP_111,2026-01-24,Colombo,2,Accommodation,Villa,128500,Cash,Family,Peak,3.3
+TRP_060,2025-09-26,Colombo,3,Accommodation,Guest House,74800,Card,Couple,Off-Peak,2.9
+TRP_077,2026-04-18,Kandy,3,Food,Hotel Dining,6800,Card,Solo,Off-Peak,3.5
+TRP_125,2025-11-25,Mirissa,3,Shopping,Gifts,4200,Card,Solo,Off-Peak,4.7
+TRP_067,2026-02-13,Sigiriya,3,Food,Cafe,18000,Card,Couple,Peak,3.7
+TRP_049,2025-04-27,Kandy,3,Food,Street Food,27300,Cash,Family,Off-Peak,4.6
+TRP_053,2026-01-25,Sigiriya,3,Activities,Tickets,27700,Cash,Couple,Peak,4.0
+TRP_070,2025-07-05,Galle,2,Activities,Surfing,19600,Cash,Couple,Peak,4.2
+TRP_071,2025-02-20,Ella,2,Miscellaneous,Laundry,4300,Cash,Solo,Peak,3.9
+TRP_043,2025-06-27,Ella,2,Accommodation,Hostel,18100,Cash,Solo,Off-Peak,4.1
+TRP_133,2026-05-30,Galle,4,Transport,Tuk Tuk,14200,Card,Couple,Off-Peak,4.3
+TRP_115,2025-04-20,Kandy,3,Food,Cafe,8700,Online Transfer,Solo,Off-Peak,5.0
+TRP_089,2026-06-04,Nuwara Eliya,4,Transport,Taxi,10000,Card,Couple,Off-Peak,5.0
+TRP_065,2026-05-31,Kandy,2,Food,Restaurant,16000,Cash,Family,Off-Peak,4.4
+TRP_095,2026-01-15,Colombo,2,Activities,Safari,10400,Card,Couple,Peak,4.4
+TRP_139,2025-03-26,Mirissa,4,Food,Restaurant,18700,Cash,Solo,Peak,4.4
+TRP_129,2025-11-26,Ella,4,Miscellaneous,Tips,7500,Card,Couple,Off-Peak,3.9
+TRP_126,2025-12-19,Kandy,4,Miscellaneous,Mobile Data,12700,Online Transfer,Couple,Peak,3.8
+TRP_120,2025-12-02,Ella,5,Transport,Fuel,7800,Cash,Solo,Peak,4.3
+TRP_119,2025-08-12,Mirissa,3,Accommodation,Hostel,87200,Card,Couple,Peak,4.2
+TRP_104,2026-05-26,Nuwara Eliya,3,Miscellaneous,Tips,7600,Online Transfer,Couple,Off-Peak,4.3
+TRP_108,2025-08-22,Mirissa,2,Transport,Train,19700,Cash,Couple,Peak,5.0
+TRP_016,2025-11-20,Colombo,2,Shopping,Souvenirs,7300,Cash,Solo,Off-Peak,4.7
+TRP_046,2025-06-29,Mirissa,5,Transport,Fuel,10000,Cash,Couple,Off-Peak,4.2
+TRP_030,2026-01-25,Mirissa,5,Transport,Taxi,8900,Cash,Solo,Peak,4.3
+TRP_099,2026-06-14,Nuwara Eliya,3,Food,Cafe,11600,Cash,Solo,Off-Peak,4.6
+TRP_007,2025-05-22,Arugam Bay,5,Miscellaneous,Tips,10200,Card,Solo,Off-Peak,3.8
+TRP_102,2026-02-20,Mirissa,4,Food,Cafe,26300,Cash,Couple,Peak,3.9
+TRP_032,2026-01-24,Galle,3,Activities,Tickets,37000,Card,Family,Peak,4.2
+TRP_120,2025-12-02,Ella,5,Shopping,Souvenirs,4200,Card,Solo,Peak,3.2
+TRP_119,2025-08-12,Mirissa,3,Food,Street Food,26600,Cash,Couple,Peak,4.8
+TRP_132,2025-03-11,Colombo,3,Food,Hotel Dining,13600,Card,Solo,Peak,4.9
+TRP_018,2025-10-16,Ella,3,Transport,Train,13900,Cash,Couple,Off-Peak,4.8
+TRP_106,2026-01-18,Kandy,3,Accommodation,Hostel,77300,Card,Couple,Peak,4.3
+TRP_046,2025-06-29,Mirissa,5,Accommodation,Hostel,85600,Card,Couple,Off-Peak,4.3
+TRP_107,2025-11-03,Arugam Bay,4,Miscellaneous,Laundry,15100,Online Transfer,Couple,Off-Peak,3.4
+TRP_087,2025-03-23,Kandy,2,Food,Street Food,9200,Cash,Solo,Peak,5.0
+TRP_104,2026-05-26,Nuwara Eliya,3,Transport,Train,9400,Cash,Couple,Off-Peak,3.9
+TRP_123,2025-01-04,Ella,2,Activities,Safari,39600,Online Transfer,Family,Peak,3.9
+TRP_039,2025-11-20,Mirissa,2,Transport,Tuk Tuk,13200,Online Transfer,Couple,Off-Peak,4.2
+TRP_073,2025-12-29,Ella,2,Activities,Guided Tour,19900,Cash,Couple,Peak,3.4
+TRP_074,2026-04-17,Arugam Bay,4,Transport,Taxi,6700,Cash,Solo,Off-Peak,4.5
+TRP_119,2025-08-12,Mirissa,3,Transport,Tuk Tuk,13700,Cash,Couple,Peak,4.1
+TRP_041,2025-02-22,Galle,3,Activities,Tickets,44600,Online Transfer,Family,Peak,3.7
+TRP_001,2025-01-26,Colombo,3,Shopping,Clothes,8100,Card,Solo,Peak,3.9
+TRP_125,2025-11-25,Mirissa,3,Activities,Safari,11400,Card,Solo,Off-Peak,4.4
+TRP_115,2025-04-20,Kandy,3,Transport,Fuel,4900,Cash,Solo,Off-Peak,3.8
+TRP_103,2025-04-19,Nuwara Eliya,3,Food,Street Food,10500,Online Transfer,Solo,Off-Peak,4.2
+TRP_018,2025-10-16,Ella,3,Miscellaneous,Mobile Data,6400,Card,Couple,Off-Peak,4.6
+TRP_107,2025-11-03,Arugam Bay,4,Shopping,Souvenirs,6500,Card,Couple,Off-Peak,4.2
+TRP_076,2026-05-21,Mirissa,5,Transport,Train,18700,Card,Family,Off-Peak,4.1
+TRP_095,2026-01-15,Colombo,2,Accommodation,Villa,98800,Cash,Couple,Peak,4.4
+TRP_009,2026-06-28,Mirissa,2,Miscellaneous,Mobile Data,5600,Cash,Couple,Off-Peak,4.0
+TRP_007,2025-05-22,Arugam Bay,5,Transport,Fuel,9400,Cash,Solo,Off-Peak,3.5
+TRP_038,2025-10-29,Kandy,2,Food,Street Food,7800,Cash,Couple,Off-Peak,4.2
+TRP_025,2025-08-07,Nuwara Eliya,4,Transport,Tuk Tuk,19300,Cash,Couple,Peak,4.0
+TRP_006,2025-11-19,Colombo,1,Transport,Tuk Tuk,9300,Card,Couple,Off-Peak,3.8
+TRP_124,2025-01-17,Colombo,1,Accommodation,Hotel,18200,Cash,Solo,Peak,3.8
+TRP_044,2025-07-22,Mirissa,5,Food,Restaurant,21900,Cash,Solo,Peak,4.3
+TRP_092,2026-03-27,Galle,3,Activities,Museum,17800,Online Transfer,Solo,Peak,4.5
+TRP_070,2025-07-05,Galle,2,Miscellaneous,Tips,7800,Online Transfer,Couple,Peak,4.2
+TRP_054,2025-04-13,Mirissa,5,Shopping,Clothes,3100,Cash,Solo,Off-Peak,4.4
+TRP_078,2026-04-07,Arugam Bay,2,Activities,Museum,27800,Card,Family,Off-Peak,3.4
+TRP_073,2025-12-29,Ella,2,Transport,Tuk Tuk,15200,Cash,Couple,Peak,3.6
+TRP_111,2026-01-24,Colombo,2,Food,Restaurant,43700,Cash,Family,Peak,3.5
+TRP_094,2026-01-08,Colombo,3,Food,Hotel Dining,61000,Cash,Family,Peak,4.2
+TRP_026,2025-07-23,Ella,3,Transport,Fuel,7400,Card,Solo,Peak,4.3
+TRP_012,2026-02-21,Nuwara Eliya,2,Activities,Surfing,8300,Online Transfer,Solo,Peak,4.2
+TRP_089,2026-06-04,Nuwara Eliya,4,Food,Street Food,17800,Card,Couple,Off-Peak,4.0
+TRP_121,2025-01-04,Galle,4,Miscellaneous,Mobile Data,11800,Card,Solo,Peak,4.5
+TRP_024,2025-12-01,Colombo,2,Transport,Taxi,14600,Cash,Couple,Peak,4.4
+TRP_137,2026-01-29,Colombo,3,Food,Hotel Dining,21000,Cash,Solo,Peak,4.3
+TRP_098,2026-04-24,Colombo,3,Transport,Fuel,6500,Online Transfer,Solo,Off-Peak,4.1
+TRP_012,2026-02-21,Nuwara Eliya,2,Miscellaneous,Mobile Data,3700,Card,Solo,Peak,4.4
+TRP_003,2025-09-28,Sigiriya,2,Shopping,Souvenirs,4000,Cash,Couple,Off-Peak,3.9
+TRP_029,2025-05-22,Colombo,1,Shopping,Souvenirs,7800,Online Transfer,Solo,Off-Peak,4.5
+TRP_008,2025-10-01,Nuwara Eliya,4,Shopping,Local Products,4000,Online Transfer,Solo,Off-Peak,4.0
+TRP_093,2025-03-23,Galle,3,Food,Hotel Dining,19400,Cash,Couple,Peak,4.0
+TRP_071,2025-02-20,Ella,2,Accommodation,Hostel,17100,Cash,Solo,Peak,4.1
+TRP_035,2026-01-15,Nuwara Eliya,2,Shopping,Local Products,11400,Card,Couple,Peak,4.3
+TRP_041,2025-02-22,Galle,3,Transport,Tuk Tuk,40300,Online Transfer,Family,Peak,4.3
+TRP_010,2025-06-19,Nuwara Eliya,3,Shopping,Clothes,6200,Cash,Couple,Off-Peak,4.1
+TRP_063,2025-01-22,Ella,2,Activities,Safari,33300,Card,Family,Peak,4.6
+TRP_055,2025-09-04,Galle,3,Miscellaneous,Laundry,17400,Card,Family,Off-Peak,3.7
+TRP_047,2026-02-15,Nuwara Eliya,4,Miscellaneous,Laundry,8100,Card,Solo,Peak,4.1
+TRP_087,2025-03-23,Kandy,2,Transport,Train,6900,Cash,Solo,Peak,3.9
+TRP_086,2025-08-30,Nuwara Eliya,3,Transport,Bus,26600,Cash,Family,Peak,3.8
+TRP_140,2025-04-16,Nuwara Eliya,2,Shopping,Clothes,4200,Card,Solo,Off-Peak,4.6
+TRP_051,2025-07-13,Galle,4,Food,Hotel Dining,17100,Card,Solo,Peak,3.8
+TRP_038,2025-10-29,Kandy,2,Transport,Tuk Tuk,13800,Cash,Couple,Off-Peak,4.6
+TRP_030,2026-01-25,Mirissa,5,Shopping,Gifts,6100,Card,Solo,Peak,4.0
+TRP_104,2026-05-26,Nuwara Eliya,3,Shopping,Gifts,5800,Cash,Couple,Off-Peak,4.5
+TRP_075,2025-12-24,Ella,4,Food,Street Food,24600,Cash,Couple,Peak,4.4
+TRP_090,2025-12-13,Galle,4,Accommodation,Hostel,77000,Card,Solo,Peak,4.1
+TRP_020,2025-09-13,Ella,2,Food,Cafe,10900,Online Transfer,Couple,Off-Peak,4.5
+TRP_106,2026-01-18,Kandy,3,Transport,Taxi,16900,Online Transfer,Couple,Peak,5.0
+TRP_073,2025-12-29,Ella,2,Accommodation,Hostel,34200,Online Transfer,Couple,Peak,3.8
+TRP_001,2025-01-26,Colombo,3,Food,Restaurant,14200,Cash,Solo,Peak,4.3
+TRP_131,2026-05-18,Sigiriya,3,Food,Restaurant,8000,Card,Solo,Off-Peak,5.0
+TRP_105,2025-09-28,Nuwara Eliya,4,Shopping,Local Products,8200,Online Transfer,Couple,Off-Peak,4.7
+TRP_015,2026-05-04,Kandy,4,Miscellaneous,Emergency,19800,Card,Family,Off-Peak,4.0
+TRP_039,2025-11-20,Mirissa,2,Food,Hotel Dining,11700,Cash,Couple,Off-Peak,5.0
+TRP_007,2025-05-22,Arugam Bay,5,Shopping,Souvenirs,3000,Card,Solo,Off-Peak,4.7
+TRP_096,2026-04-02,Ella,3,Accommodation,Hostel,66200,Cash,Family,Off-Peak,3.7
+TRP_080,2025-06-03,Mirissa,4,Shopping,Local Products,4100,Online Transfer,Solo,Off-Peak,4.1
+TRP_086,2025-08-30,Nuwara Eliya,3,Food,Street Food,34300,Card,Family,Peak,4.1
+TRP_068,2025-12-04,Colombo,3,Activities,Tickets,8700,Card,Solo,Peak,5.0
+TRP_017,2025-12-24,Kandy,2,Shopping,Clothes,21000,Cash,Family,Peak,3.7
+TRP_063,2025-01-22,Ella,2,Miscellaneous,Mobile Data,13400,Online Transfer,Family,Peak,5.0
+TRP_106,2026-01-18,Kandy,3,Food,Restaurant,18800,Cash,Couple,Peak,4.4
+TRP_064,2025-06-28,Colombo,1,Miscellaneous,Laundry,5100,Card,Couple,Off-Peak,4.2
+TRP_046,2025-06-29,Mirissa,5,Food,Hotel Dining,34300,Online Transfer,Couple,Off-Peak,4.3
+TRP_003,2025-09-28,Sigiriya,2,Activities,Surfing,14000,Card,Couple,Off-Peak,4.0
+TRP_059,2025-12-13,Galle,2,Activities,Guided Tour,20600,Cash,Couple,Peak,4.6
+TRP_112,2025-10-05,Sigiriya,4,Miscellaneous,Mobile Data,12700,Cash,Couple,Off-Peak,4.4
+TRP_072,2025-02-26,Galle,2,Transport,Fuel,12100,Cash,Solo,Peak,5.0
+TRP_052,2025-12-06,Arugam Bay,2,Accommodation,Hostel,97200,Cash,Family,Peak,4.3
+TRP_031,2025-05-11,Sigiriya,4,Miscellaneous,Mobile Data,13600,Card,Couple,Off-Peak,3.4
+TRP_140,2025-04-16,Nuwara Eliya,2,Accommodation,Villa,20000,Online Transfer,Solo,Off-Peak,4.0
+TRP_121,2025-01-04,Galle,4,Shopping,Gifts,7700,Cash,Solo,Peak,4.5
+TRP_091,2025-11-14,Galle,4,Activities,Surfing,29800,Cash,Couple,Off-Peak,4.8
+TRP_138,2025-12-01,Galle,2,Accommodation,Guest House,44900,Cash,Couple,Peak,3.1
+TRP_095,2026-01-15,Colombo,2,Transport,Train,9800,Cash,Couple,Peak,4.3
+TRP_046,2025-06-29,Mirissa,5,Activities,Surfing,34200,Cash,Couple,Off-Peak,4.6
+TRP_106,2026-01-18,Kandy,3,Activities,Museum,18400,Card,Couple,Peak,3.7
+TRP_105,2025-09-28,Nuwara Eliya,4,Miscellaneous,Tips,9600,Cash,Couple,Off-Peak,4.3
+TRP_129,2025-11-26,Ella,4,Food,Hotel Dining,13500,Card,Couple,Off-Peak,4.3
+TRP_036,2026-05-11,Arugam Bay,5,Food,Restaurant,32200,Cash,Couple,Off-Peak,4.0
+TRP_131,2026-05-18,Sigiriya,3,Activities,Tickets,18600,Card,Solo,Off-Peak,3.9
+TRP_089,2026-06-04,Nuwara Eliya,4,Miscellaneous,Laundry,9900,Cash,Couple,Off-Peak,4.5
+TRP_128,2025-08-11,Ella,5,Food,Cafe,17000,Online Transfer,Solo,Peak,3.4
+TRP_096,2026-04-02,Ella,3,Transport,Fuel,26900,Cash,Family,Off-Peak,4.4
+TRP_011,2025-08-24,Galle,4,Miscellaneous,Emergency,10600,Cash,Solo,Peak,3.8
+TRP_089,2026-06-04,Nuwara Eliya,4,Shopping,Souvenirs,5300,Card,Couple,Off-Peak,4.0
+TRP_105,2025-09-28,Nuwara Eliya,4,Activities,Museum,26700,Card,Couple,Off-Peak,3.9
+TRP_048,2026-03-29,Nuwara Eliya,2,Accommodation,Hostel,29200,Online Transfer,Solo,Peak,3.8
+TRP_005,2025-09-08,Ella,3,Food,Restaurant,10600,Cash,Couple,Off-Peak,4.7
+TRP_059,2025-12-13,Galle,2,Food,Hotel Dining,16300,Online Transfer,Couple,Peak,4.7
+TRP_087,2025-03-23,Kandy,2,Accommodation,Hostel,30300,Cash,Solo,Peak,3.8
+TRP_030,2026-01-25,Mirissa,5,Activities,Tickets,37700,Cash,Solo,Peak,3.9
+TRP_052,2025-12-06,Arugam Bay,2,Activities,Surfing,40600,Cash,Family,Peak,4.0
+TRP_036,2026-05-11,Arugam Bay,5,Activities,Guided Tour,29000,Card,Couple,Off-Peak,4.8
+TRP_072,2025-02-26,Galle,2,Accommodation,Villa,38600,Cash,Solo,Peak,3.8
+TRP_077,2026-04-18,Kandy,3,Shopping,Clothes,4200,Cash,Solo,Off-Peak,3.4
+TRP_093,2025-03-23,Galle,3,Accommodation,Hostel,94600,Cash,Couple,Peak,4.6
+TRP_064,2025-06-28,Colombo,1,Activities,Guided Tour,5300,Card,Couple,Off-Peak,3.7
+TRP_058,2026-03-02,Galle,2,Accommodation,Villa,23700,Card,Solo,Peak,4.4
+TRP_124,2025-01-17,Colombo,1,Activities,Tickets,3400,Cash,Solo,Peak,3.8
+TRP_024,2025-12-01,Colombo,2,Shopping,Clothes,14500,Cash,Couple,Peak,5.0
+TRP_124,2025-01-17,Colombo,1,Miscellaneous,Laundry,3400,Card,Solo,Peak,4.2
+TRP_019,2026-03-29,Ella,5,Accommodation,Guest House,98800,Card,Couple,Peak,3.8
+TRP_069,2025-04-21,Nuwara Eliya,3,Shopping,Local Products,15300,Online Transfer,Family,Off-Peak,4.1
+TRP_017,2025-12-24,Kandy,2,Accommodation,Villa,60800,Card,Family,Peak,4.4
+TRP_086,2025-08-30,Nuwara Eliya,3,Miscellaneous,Emergency,20100,Cash,Family,Peak,4.1
+TRP_062,2026-03-31,Galle,3,Food,Street Food,40100,Cash,Family,Peak,4.8
+TRP_041,2025-02-22,Galle,3,Accommodation,Hostel,188600,Card,Family,Peak,3.9
+TRP_088,2026-05-27,Sigiriya,4,Transport,Bus,13000,Card,Couple,Off-Peak,4.0
+TRP_023,2026-03-23,Mirissa,2,Food,Cafe,13800,Cash,Couple,Peak,4.3
+TRP_115,2025-04-20,Kandy,3,Miscellaneous,Emergency,6500,Card,Solo,Off-Peak,4.3
+TRP_005,2025-09-08,Ella,3,Accommodation,Guest House,35400,Card,Couple,Off-Peak,5.0
+TRP_131,2026-05-18,Sigiriya,3,Miscellaneous,Emergency,3700,Cash,Solo,Off-Peak,3.8
+TRP_014,2025-01-03,Ella,5,Food,Hotel Dining,17400,Cash,Solo,Peak,4.8
+TRP_020,2025-09-13,Ella,2,Transport,Bus,14600,Online Transfer,Couple,Off-Peak,4.0
+TRP_051,2025-07-13,Galle,4,Transport,Fuel,7100,Cash,Solo,Peak,3.7
+TRP_082,2026-06-24,Nuwara Eliya,2,Food,Cafe,13400,Online Transfer,Couple,Off-Peak,4.1
+TRP_019,2026-03-29,Ella,5,Activities,Tickets,39800,Cash,Couple,Peak,3.8
